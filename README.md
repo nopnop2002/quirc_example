@@ -1,6 +1,7 @@
 # quirc_example
 Quirc QR code decoding library example.   
 This project uses [this](https://components.espressif.com/components/espressif/quirc) component.   
+Unfortunately, there is no sample project available.   
 I created this project to verify the operation of this library.   
 
 __Note__   
@@ -24,7 +25,7 @@ idf.py flash monitor
 # Issues
 The QR code is successfully parsed, but an assertion failure occurs.   
 The cause is unknown.   
-
+I am making this project public to identify the cause.   
 ```
 I (1973) main_task: Calling app_main()
 jpg_len=72811
