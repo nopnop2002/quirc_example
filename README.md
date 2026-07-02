@@ -5,7 +5,7 @@ Unfortunately, there is no sample project available.
 I created this project to verify the operation of this library.   
 
 __Note__   
-__This project is incomplete.__  
+__An assertion error occurs in this project.__  
 
 # Software requirements   
 ESP-IDF V5.0 or later.   
