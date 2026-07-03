@@ -22,6 +22,9 @@ git clone https://github.com/nopnop2002/quirc_example
 idf.py flash monitor 
 ```
 
+# The QR code to be read in this project
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/1a7592e4-a80f-4e41-84f1-f17350a716c3" />
+
 # Issues
 The QR code is successfully parsed, but an assertion failure occurs.   
 The cause is unknown.   
