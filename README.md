@@ -29,6 +29,7 @@ idf.py flash monitor
 The QR code is successfully parsed, but an assertion failure occurs.   
 The cause is unknown.   
 I am making this project public to identify the cause.   
+We need your help to resolve this.   
 ```
 I (1973) main_task: Calling app_main()
 jpg_len=72811
